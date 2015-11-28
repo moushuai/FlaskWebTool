@@ -7,7 +7,7 @@ This is a web tool for displaying the porn detection results which are generated
 		
 		2.cd <application folder>
 		
-		3.venv ¨Cs <virtual env path>
+		3.venv -s <virtual env path>
 		
 		4.activate the virtual environment:
 			source <virtual env path>/bin/activate
@@ -15,7 +15,7 @@ This is a web tool for displaying the porn detection results which are generated
 		5.write a wsgi script:
 			from app import app
 			
-			if __name__ == ¡®__main__¡¯:
+			if __name__ == '__main__':
 
 					app.run()
 		
