@@ -1,0 +1,10 @@
+video/normal/11221/img_0.jpg normal 100.00
+video/normal/11221/img_1.jpg normal 99.98
+video/normal/11221/img_2.jpg normal 89.98
+video/normal/11221/img_3.jpg normal 99.99
+video/normal/11221/img_4.jpg normal 100.00
+video/normal/11221/img_5.jpg normal 100.00
+video/normal/11221/img_6.jpg normal 99.89
+video/normal/11221/img_7.jpg normal 100.00
+video/normal/11221/img_8.jpg normal 95.08
+video/normal/11221/img_9.jpg normal 99.71

@@ -9,7 +9,11 @@ COMPARISON_FILE = 'comparison.txt'
 
 # def get_args():
 #     parser = argparse.ArgumentParser(description=DESCRIPTION,
+<<<<<<< HEAD
 #                                      formatter_class=
+=======
+#                                      formatter_class=s
+>>>>>>> 9eccc5e387486e02d3fd0ae6a5c58b7fd7f79923
 #                                      argparse.RawTextHelpFormatter)
 #     # parser.add_argument('task', type=str, choices=['tencent', 'tupu', 'deepir'], help='api')
 #     parser.add_argument('-i', '--input_dir', type=str, help='input dir')
@@ -33,14 +37,22 @@ def evaluation(args):
         lines = fh.readlines()
         for line in lines:
             # print line
+<<<<<<< HEAD
             video, label = line.strip('\n').split(' ')
+=======
+            video, label = line.strip().split(' ')
+>>>>>>> 9eccc5e387486e02d3fd0ae6a5c58b7fd7f79923
             ground_truth[video] = label
             print video, label
         fh.close()
     with open(os.path.join(args.output_dir, VIDEO_RESULT_FILE)) as fh:
         lines = fh.readlines()
         for line in lines:
+<<<<<<< HEAD
             video, label, score = line.strip('\n').split(' ')
+=======
+            video, label, score = line.strip().split(' ')
+>>>>>>> 9eccc5e387486e02d3fd0ae6a5c58b7fd7f79923
             total += 1
             # img = path.split(":")[1]
             if video in ground_truth:
@@ -66,7 +78,11 @@ def distribution(args):
     with open(args.ground_truth_file, 'r') as fh:
         ground_truth_list = fh.readlines()
         for line in ground_truth_list:
+<<<<<<< HEAD
             path, label = line.strip('\n').split(' ')
+=======
+            path, label = line.strip().split(' ')
+>>>>>>> 9eccc5e387486e02d3fd0ae6a5c58b7fd7f79923
             ground_truth[path] = label
         fh.close()
 
@@ -86,7 +102,11 @@ def distribution(args):
         video_result_list = fh.readlines()
         for line in video_result_list:
             # video_result = VideoResult()
+<<<<<<< HEAD
             path, label, score = line.strip('\n').split(' ')
+=======
+            path, label, score = line.strip().split(' ')
+>>>>>>> 9eccc5e387486e02d3fd0ae6a5c58b7fd7f79923
             if path in ground_truth:
                 if ground_truth[path] == '0':
                     normal_num += 1
@@ -113,7 +133,10 @@ def distribution(args):
                     else:
                         sexy_sexy_num += 1
         fh.close()
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9eccc5e387486e02d3fd0ae6a5c58b7fd7f79923
     file_writer = open(os.path.join(args.output_dir, DISTRIBUTION_FILE), 'w')
     normal_normal_percent = 0 if normal_num == 0 else (float(normal_normal_num)/normal_num)*100
     normal_porn_percent = 0 if normal_num == 0 else (float(normal_porn_num)/normal_num)*100
@@ -149,7 +172,11 @@ def comparison(args):
     with open(args.ground_truth_file, 'r') as fh:
         ground_truth_list = fh.readlines()
         for line in ground_truth_list:
+<<<<<<< HEAD
             path, label = line.strip('\n').split(' ')
+=======
+            path, label = line.strip().split(' ')
+>>>>>>> 9eccc5e387486e02d3fd0ae6a5c58b7fd7f79923
             ground_truth[path] = label
         fh.close()
     # result_list = []
@@ -157,7 +184,11 @@ def comparison(args):
         video_result_list = fh.readlines()
         for line in video_result_list:
             # video_result = VideoResult()
+<<<<<<< HEAD
             path, label, score = line.strip('\n').split(' ')
+=======
+            path, label, score = line.strip().split(' ')
+>>>>>>> 9eccc5e387486e02d3fd0ae6a5c58b7fd7f79923
             if path in ground_truth:
                 # video_result.name = path
                 # video_result.ground_truth_label = ground_truth[path]
@@ -190,7 +221,11 @@ def result_deepir_process(args):
                 # name = img.split('\t')[0]
                 # if name == 'IMAGE_NAME':
                 #     continue
+<<<<<<< HEAD
                 name, label, score_str = img.strip('\n').split(' ')
+=======
+                name, label, score_str = img.strip().split(' ')
+>>>>>>> 9eccc5e387486e02d3fd0ae6a5c58b7fd7f79923
                 score = float(score_str)
                 # print label + ' ' + score
                 if label == 'porn':

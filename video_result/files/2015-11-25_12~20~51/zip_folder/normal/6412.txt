@@ -1,0 +1,13 @@
+video/normal/6412/img_0.jpg normal 63.85
+video/normal/6412/img_1.jpg normal 56.26
+video/normal/6412/img_2.jpg normal 58.42
+video/normal/6412/img_3.jpg normal 57.47
+video/normal/6412/img_4.jpg normal 99.86
+video/normal/6412/img_5.jpg normal 83.18
+video/normal/6412/img_6.jpg normal 99.97
+video/normal/6412/img_7.jpg normal 99.84
+video/normal/6412/img_8.jpg normal 69.60
+video/normal/6412/img_9.jpg normal 66.28
+video/normal/6412/img_10.jpg normal 63.25
+video/normal/6412/img_11.jpg normal 89.19
+video/normal/6412/img_12.jpg normal 96.45

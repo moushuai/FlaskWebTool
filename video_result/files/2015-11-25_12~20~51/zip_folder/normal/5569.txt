@@ -1,0 +1,11 @@
+video/normal/5569/img_0.jpg normal 99.81
+video/normal/5569/img_1.jpg normal 99.80
+video/normal/5569/img_2.jpg normal 99.63
+video/normal/5569/img_3.jpg normal 99.68
+video/normal/5569/img_4.jpg normal 99.87
+video/normal/5569/img_5.jpg normal 73.67
+video/normal/5569/img_6.jpg normal 82.94
+video/normal/5569/img_7.jpg normal 96.17
+video/normal/5569/img_8.jpg normal 97.69
+video/normal/5569/img_9.jpg normal 97.15
+video/normal/5569/img_10.jpg normal 99.89

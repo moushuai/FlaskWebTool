@@ -1,0 +1,15 @@
+video/normal/2665/img_0.jpg normal 84.68
+video/normal/2665/img_1.jpg normal 100.00
+video/normal/2665/img_2.jpg normal 99.99
+video/normal/2665/img_3.jpg normal 97.90
+video/normal/2665/img_4.jpg normal 98.53
+video/normal/2665/img_5.jpg normal 93.86
+video/normal/2665/img_6.jpg normal 76.69
+video/normal/2665/img_7.jpg normal 84.44
+video/normal/2665/img_8.jpg normal 91.30
+video/normal/2665/img_9.jpg normal 61.63
+video/normal/2665/img_10.jpg normal 97.99
+video/normal/2665/img_11.jpg normal 100.00
+video/normal/2665/img_12.jpg normal 99.99
+video/normal/2665/img_13.jpg normal 95.94
+video/normal/2665/img_14.jpg normal 88.04

@@ -1,0 +1,10 @@
+video/normal/13196/img_0.jpg normal 99.52
+video/normal/13196/img_1.jpg normal 99.52
+video/normal/13196/img_2.jpg normal 99.52
+video/normal/13196/img_3.jpg normal 99.52
+video/normal/13196/img_4.jpg normal 99.52
+video/normal/13196/img_5.jpg normal 99.52
+video/normal/13196/img_6.jpg normal 99.52
+video/normal/13196/img_7.jpg normal 99.52
+video/normal/13196/img_8.jpg normal 100.00
+video/normal/13196/img_9.jpg normal 100.00

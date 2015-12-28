@@ -1,0 +1,13 @@
+video/normal/18958/img_0.jpg normal 70.82
+video/normal/18958/img_1.jpg normal 99.11
+video/normal/18958/img_2.jpg normal 99.99
+video/normal/18958/img_3.jpg normal 100.00
+video/normal/18958/img_4.jpg normal 100.00
+video/normal/18958/img_5.jpg normal 99.96
+video/normal/18958/img_6.jpg normal 99.72
+video/normal/18958/img_7.jpg normal 99.84
+video/normal/18958/img_8.jpg normal 99.98
+video/normal/18958/img_9.jpg normal 99.92
+video/normal/18958/img_10.jpg normal 90.06
+video/normal/18958/img_11.jpg normal 99.90
+video/normal/18958/img_12.jpg normal 99.82
